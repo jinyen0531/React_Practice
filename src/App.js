@@ -7,5 +7,5 @@ function App() {
     <Parent />
   );
 }
-
+ 
 export default App;
